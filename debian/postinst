@@ -1,3 +1,12 @@
 #!/bin/sh
 set -e
 gtk-update-icon-cache -f '/usr/share/icons/Yaru'
+gtk-update-icon-cache -f '/usr/share/icons/Yaru-bark' 
+gtk-update-icon-cache -f '/usr/share/icons/Yaru-sage'
+gtk-update-icon-cache -f '/usr/share/icons/Yaru-olive' 
+gtk-update-icon-cache -f '/usr/share/icons/Yaru-viridian' 
+gtk-update-icon-cache -f '/usr/share/icons/Yaru-prussiangreen'
+gtk-update-icon-cache -f '/usr/share/icons/Yaru-blue'
+gtk-update-icon-cache -f '/usr/share/icons/Yaru-purple'
+gtk-update-icon-cache -f '/usr/share/icons/Yaru-magenta' 
+gtk-update-icon-cache -f '/usr/share/icons/Yaru-red'

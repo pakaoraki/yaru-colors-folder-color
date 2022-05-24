@@ -1,10 +1,10 @@
 Source: yaru-colors-folder-color
 Section: graphics
 Priority: extra
-Standards-Version: 0.0.1
-Maintainer: costales <costales.marcos@gmail.com>
+Standards-Version: 0.0.2
+Maintainer: pakaoraki <pakaoraki@gmx.com>
 Build-Depends: python-distutils-extra, debhelper (>=7)
-Homepage: https://github.com/costales/yaru-colors-folder-color
+Homepage: https://github.com/pakaoraki/yaru-colors-folder-color
 
 Package: yaru-colors-folder-color
 Architecture: all
@@ -12,4 +12,4 @@ Section: graphics
 Priority: extra
 Depends: yaru-theme-icon
 Description: Yaru-Color and Folder Color
- Adap Yaru-Colors for working with Folder Color in Ubuntu 20.04
+ Adap Yaru-Colors for working with Folder Color in Ubuntu 22.04
