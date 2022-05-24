@@ -1,11 +1,7 @@
-yaru-colors-folder-color (0.0.2) focal; urgency=low
-
-  * Update for Ubuntu 22.04 accent colors.
-
- -- pakaoraki <pakaoraki@gmx.com>  Ven, 24 may 2022 14:26:00 +0000
- 
-yaru-colors-folder-color (0.0.1) focal; urgency=low
+yaru-colors-folder-color (0.0.2) jammy; urgency=low
 
   * Init release
 
- -- costales <costales.marcos@gmail.com>  Mon, 21 apr 2020 23:45:31 +0000
+ -- pakaoraki <pakaoraki@gmx.com>  Mon, 24 apr 2022 16:02:00 +0000
+ 
+
