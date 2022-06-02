@@ -4,7 +4,7 @@ PANEL_ONLY_ICONS_CATEGORIES = [
 ]
 
 icon_flavors = [
-#  'default',
+  'default',
 #  'dark',
 ]
 
