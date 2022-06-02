@@ -1,3 +1,9 @@
+yaru-colors-folder-color (0.0.3) jammy; urgency=low
+
+  * Updated: fix some bad icons
+
+ -- pakaoraki <pakaoraki@gmx.com>  Mon, 02 jun 2022 19:54:10 +0000
+
 yaru-colors-folder-color (0.0.2) jammy; urgency=low
 
   * Init release
