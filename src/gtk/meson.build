@@ -13,7 +13,6 @@ foreach flavour: available_flavours
   flavours += flavour
 endforeach
 
-
 foreach accent: enabled_accent_colors
   if enabled_accent_colors.contains(accent)
     flavours += (get_option('default') ? [accent] : [])
