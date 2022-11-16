@@ -1,3 +1,12 @@
+yaru-colors-folder-color (0.1.0) kinetic; urgency=medium
+
+  * Update Yaru
+  * Remove useless files and sources from package
+  * Reduce dark gradient on folder icon
+  * Update to Ubuntu 22.10 kinetic
+
+ -- pakaoraki <pakaoraki@gmx.com>  Wed, 16 Nov 2022 18:48:30 +0100
+
 yaru-colors-folder-color (0.0.3) jammy; urgency=low
 
   * Updated: fix some bad icons
@@ -9,5 +18,3 @@ yaru-colors-folder-color (0.0.2) jammy; urgency=low
   * Init release
 
  -- pakaoraki <pakaoraki@gmx.com>  Mon, 24 apr 2022 16:02:00 +0000
- 
-
