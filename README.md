@@ -10,7 +10,7 @@ This will allow a perfect integration of Yaru with Folder Color in Ubuntu 22.04/
 
 ## Accent colors
 
-This new version can handle the accent color theme introduced in Ubuntu 22.10:
+This new version can handle the accent color theme introduced in Ubuntu 22.04:
 
 ![Light Theme - Purple accent color](https://raw.githubusercontent.com/pakaoraki/yaru-colors-folder-color/master/screenshots/light_theme-purple_accent.png "Light Theme - Purple accent color")
 
